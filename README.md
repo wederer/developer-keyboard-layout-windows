@@ -1,6 +1,9 @@
-# Keyboard Layout
+# DE Keyboard Layout for Developers
 
-unpressed:
+My german keyboard layout which makes using brackets, braces, ... easy via the AltGr button near the homerow.
+
+Run `Deutsch_WEdererv0.4.0.klc` to install the layout.
+
 
 ![Keyboard Layout](./wederer0.4.0.jpg)
 
