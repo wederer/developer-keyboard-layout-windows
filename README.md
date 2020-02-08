@@ -2,7 +2,7 @@
 
 My german keyboard layout which makes using brackets, braces, ... easy via the AltGr button near the homerow.
 
-Created by using the [Keyboard Layout Creator](https://www.microsoft.com/en-us/download/details.aspx?id=22339).
+Created via the [Keyboard Layout Creator](https://www.microsoft.com/en-us/download/details.aspx?id=22339).
 
 ## Layout (`Alt Gr` pressed)
 
